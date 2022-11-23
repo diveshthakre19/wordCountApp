@@ -1,4 +1,4 @@
-# Expense Tracker
+# Word Count App
 by -Divesh Thakre
 
 ### Word count app which only calculates the number of characters given by the user.
